@@ -1,3 +1,13 @@
+# Installation
+This works on WEB servers, so you will need one, otherwise browser won't let you see it working because `Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https, chrome-extension-resource.`
+
+- Launch on any web server: Nginx or Apache
+- Easy way: 
+    - download PyCharm or any Idea based product. It is free (https://www.jetbrains.com/pycharm/download/)
+    - open project directory in Pycharm and launch `index.html` using PyCharm's right top corner Chrome/FireFox/Opera icon.
+    - enjoy
+
+
 ### Technologies used:
 - jquery
 - bootstrap
