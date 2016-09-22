@@ -1,3 +1,7 @@
+# Browse functionality
+
+[https://bakanovkirill.github.io/iaminterested](https://bakanovkirill.github.io/iaminterested)
+
 # Installation
 This works on WEB servers, so you will need one, otherwise browser won't let you see it working because `Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, https, chrome-extension-resource.`
 
