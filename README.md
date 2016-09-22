@@ -13,11 +13,13 @@ This works on WEB servers, so you will need one, otherwise browser won't let you
 
 
 ### Technologies used:
-- jquery
+- javascript/jQuery
 - bootstrap
 - html5
 - css3
 - Backbone.js
+- underscore.js
+- require.js
 
 
 # Create a responsive “I’m interested” site
