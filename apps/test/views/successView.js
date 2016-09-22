@@ -18,7 +18,7 @@ define([
         template: _.template(formTpl),
 
         render: function (e) {
-            tpl = this.template({});
+            var tpl = this.template({});
             this.$el.html(tpl);
         },
     });

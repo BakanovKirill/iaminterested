@@ -571,3 +571,10 @@ body {
     display: block;
     font-size: 20px;
 }
+
+.home-link, .home-link:hover, .home-link:visited {
+    text-decoration: none !important;
+}
+.home-link {
+    color: inherit;
+}

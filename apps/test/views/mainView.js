@@ -25,7 +25,7 @@ define([
         },
 
         render: function (e) {
-            tpl = this.template({
+            var tpl = this.template({
                 products: this.model.get('products')
             });
             this.$el.html(tpl);

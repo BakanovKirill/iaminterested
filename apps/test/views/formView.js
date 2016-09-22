@@ -21,8 +21,10 @@ define([
         },
 
         render: function (e) {
-            tpl = this.template({});
+            var tpl = this.template({});
             this.$el.html(tpl);
+            // insert today date for default value
+            this.$el.find('input#date')[0].valueAsDate = new Date()
         },
         show: function (e) {
             this.$el.show();
